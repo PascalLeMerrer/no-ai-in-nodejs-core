@@ -100,6 +100,7 @@ speed up the process.
 - Nick Asmodeus (Programmer, Node.js user)
 - Anagh Pranshu (Web Developer, Open Source Enthusiast)
 - Akhil Grandhi (Full Stack Developer)
+- Jörn Zaefferer (Software Engineer)
 - Claudius Coenen (Software Developer, Professor)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
